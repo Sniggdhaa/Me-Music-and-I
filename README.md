@@ -1,4 +1,6 @@
 # Me, Music and I
+View the notebook on [Github](https://github.com/Sniggdhaa/Me-Music-and-I/blob/master/my-spotify-streams.ipynb)/[Kaggle](https://www.kaggle.com/sniggdhaa/my-spotify-streams/notebook)
+
 ### **COVID-19 CHANGED MY MUSIC TASTE**
 
 After six months in lockdown and being one the privileged ones to experiment with new habits and lifestyles during the quarantine, I look back at my streaming history to identify the changes in my music tastes during the lockdown. During the process I identified the following:
